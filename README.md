@@ -1,4 +1,4 @@
-## Bem-vindo, ao meu repositório! Eu sou a Anna Pereira🌸
+## Bem-vindo! Eu sou a Anna Pereira🌸
 
 ### Sobre mim:
 - Cientista da Computação, formada pelo Centro Universitário FEI em SBC
