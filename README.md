@@ -12,7 +12,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Anna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Anna-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align ="center" alt="Anna-PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img align ="center" alt="Anna-PyCharm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
   <img align ="center" alt="Anna-PyCharm" height="40" width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"/>
