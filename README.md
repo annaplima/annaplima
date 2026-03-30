@@ -4,12 +4,6 @@
 - Cientista da Computação, formada pelo Centro Universitário FEI em SBC
 - Aqui você encontrará alguns dos meus projetos e códigos
 
-
-<div class="image-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=annaplima&show_icons=true&theme=radical&include_all_commit=true&count_private=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaplima&layout=compact&theme=radical" width="38%" />
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Anna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align ="center" alt="Anna-PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
